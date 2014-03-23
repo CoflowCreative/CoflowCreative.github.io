@@ -241,6 +241,10 @@ a:focus {
     padding-top: 100px;
 }
 
+.light-gray {
+    background: none repeat scroll 0 0 #222222;
+}
+
 .download-section {
     width: 100%;
     padding: 50px 0;
